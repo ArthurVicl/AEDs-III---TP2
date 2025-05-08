@@ -1,0 +1,23 @@
+NO COMEÇO DO ARQUIVO
+INT(4 BYTE) = ULTIMO ID INSERIDO
+-----------------
+VETOR 
+
+(METADADOS)
+BYTE(1 BYTE) = VALIDAÇÃO
+INT(4 BYTES) = TAMANHO VETOR
+
+
+(DADOS)
+int(4 BYTES) = ID
+Short(2 BYTES) = NUMERO_CAPITULO
+Short(2 BYTES) = volume;
+String(N BYTES) = nome
+BYTE(1 BYTES) = qtdString;
+String(N BYTES) = titulo_original
+String(N BYTES) = titulo_ingles
+Short(2 BYTES) = paginas;
+String(N BYTES) = data
+String(N BYTES) = episodio
+
+
